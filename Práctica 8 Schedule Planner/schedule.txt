@@ -1,0 +1,7 @@
+Lists starting from element 1. Elements at index 0 are fake to initialize the readline
+Activity (it can be sorted or not)
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 
+Beginning (in same order of the activity)
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+Final (in same order of the activity)
+0, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
